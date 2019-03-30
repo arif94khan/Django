@@ -1,0 +1,58 @@
+/*Task-1
+Give the body element of the site a light blue using HEX code*/
+
+body{
+  background: lightblue;
+}
+
+/*Task-2  Change the h1 to have a 1px solid black border*/
+
+h1{
+  border: 1px solid black;
+}
+
+/*Task-3 make h2 elemnts color purple*/
+h2{
+  color: purple;
+}
+
+/*Task-4make all input box have a 2px solid dark red border use rgb*/
+input{
+  border: 2px solid rgb(144, 0, 0)
+}
+
+/*Task-5 Give a light yellow backgroung all <p> elements inside of a div element*/
+
+div p{
+  background: #fffca5
+}
+
+/*Task-6 there is a textarea element with the id = textblock give border, wodth height*/
+#textblock{
+  border: 5px solid gray;
+  width: 800px;
+  height: 400px;
+}
+/*Task-7 There is a link to Google on the page. Make the link red*/
+a{
+  color: red
+}
+
+/*Task-8 Makeelement with the id=itemone have an overline text and be the color purple*/
+#itemone{
+  text-decoration: overline;
+  color: purple
+}
+
+/*Task-9 Finally make the elements with the class label exit have abackground of blue and a 4px dashed yellow border*/
+
+.exit{
+  background-color: blue;
+  border: 4px dashed yellow;
+}
+/*Task-10
+There is a link to Google on the page in the list
+Can you figure out how to change the color if you can*/
+a:visited{
+color:blue;
+}

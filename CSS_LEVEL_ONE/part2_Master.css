@@ -1,0 +1,18 @@
+body{
+  background: url(https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_960_720.jpg);
+  background-repeat: repeat; 
+}
+
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 4px;
+  border-style: double;
+}
+p{
+  color: red;
+}
+span{
+  background: red;
+  color: black;
+}
